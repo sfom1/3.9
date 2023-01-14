@@ -16,8 +16,36 @@ p.p1 {
   p.p2 {
     background-color: #DDDDDD;
     height: 150px;
-    left: 50px;
+    right: 500px;
     position: relative;
     top: -50px;
     width: 150px;
   }
+Footer
+
+p.p3 {  height: 150px;
+  left: 100px;
+  position: relative;
+  top: 10px;
+  width: 110px;
+  
+}
+p.p4 {
+  height: 150px;
+  left: 550px;
+  position: relative;
+  top: 0px;
+  width: 150px;
+}
+p.p5 {
+  height: 150px;
+  left: 1000px;
+  position: relative;
+  top: 0px;
+  width: 150px;
+
+}
+
+as{
+  color: coral;
+}
