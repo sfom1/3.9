@@ -32,10 +32,10 @@ p.p3 {  height: 150px;
 }
 p.p4 {
   height: 150px;
-  left: 600px;
+  left: 800px;
   position: relative;
   top: 0px;
-  width: 150px;
+  width: -100px;
 }
 p.p5 {
   height: 150px;
