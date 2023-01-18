@@ -26,20 +26,20 @@ Footer
 p.p3 {  height: 150px;
   left: 100px;
   position: relative;
-  top: 10px;
+  top: 100px;
   width: 110px;
   
 }
 p.p4 {
   height: 150px;
-  left: 800px;
+  left: 900px;
   position: relative;
   top: 0px;
-  width: -100px;
+  width: -90px;
 }
 p.p5 {
   height: 150px;
-  left: 1300px;
+  left: 1500px;
   position: relative;
   top: 0px;
   width: 150px;
